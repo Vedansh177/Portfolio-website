@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+    background-color: aliceblue;
+    text-align: center;
+    font-family:'Merriweather Sans', serif;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 100px;
+    font-family:'Sacramento', cursive ;
+    margin: auto;
+
+   
+}
+.webo{
+    margin-top: 30px;
+}
+
+.mount{
+    margin-bottom: 120px;
+}
+
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    color: #66bfbf;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.firstcontainer
+ {
+    background-color: rgb(82,193,184);
+    padding-left: 20px;
+    padding-top: 100px;
+}
+
+.upcloud
+{
+    position: absolute;
+    left: 999px;
+
+}
+.clouddown
+{
+    position: absolute;
+    top: 200px;
+    left: 350px;
+}
+
+.profile
+{
+    margin-top: 100px;
+}
+.profileimg
+{
+    width: 15%;
+    margin-bottom: 50px;
+
+}
+
+.skill-row{
+    width: 50%;
+    text-align: left;
+    
+    margin: 100px auto 100px auto;
+    
+}
+
+.chilli{
+
+    width: 20%;
+    float: right;
+    
+
+}
+
+.computerimage{
+    border-radius: 50%;
+    margin-right: 50px;
+    height: auto;
+    width: 20%;
+    float: left;
+    
+
+}
+.bottom{
+    background-color: #66bfbf;
+    padding: 40px 0 20px;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+  .contactmessage{
+    width: 40%;
+    margin: 50px auto 60px ;
+
+
+  }
+  .contactme{
+    margin-bottom: 40px;
+  }
+
+
+
+
+/*
+
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive;
+
+*/
